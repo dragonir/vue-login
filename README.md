@@ -6,6 +6,7 @@ vue + vue-router + vuex + axios实现登录、拦截功能。
 访问首页，可以查看个人GitHub仓库，在此之前会提示，需要生成自己的 Github Personal Token（[生成Token](https://github.com/settings/tokens/new)）。
 
 输入token回车，即可查看个人仓库列表。
+[在线地址](http://qinyh.top:3001)
 
 ### 登录逻辑
 
